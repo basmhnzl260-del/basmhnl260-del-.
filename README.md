@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  
+### 📱 App UI Showcase
+
+<div align="center">
+  <img src="https://github.com/basmhnzl260-del/my-pics/blob/db07011730dba3de71782a083398b06915586dfc/IMG-20260913-WA0316.jpg?raw=true" width="200"/>
+  <img src="https://github.com/basmhnzl260-del/my-pics/blob/db07011730dba3de71782a083398b06915586dfc/IMG-20260913-WA9924.jpg?raw=true" width="200"/>
+  <img src="https://github.com/basmhnzl260-del/my-pics/blob/db07011730dba3de71782a083398b06915586dfc/IMG-20260913-WA5214.jpg?raw=true" width="200"/>
+</div>
 </p>
 ### 📱 App UI Showcase
 
