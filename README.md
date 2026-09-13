@@ -16,8 +16,8 @@
 ### 📱 App UI Showcase
 
 <p align="center">
-  <img src="assets/screenshot_1.png" width="200" alt="Lock Screen" style="margin: 10px;">
-  <img src="assets/screenshot_2.png" width="200" alt="Dashboard" style="margin: 10px;">
-  <img src="assets/screenshot_3.png" width="200" alt="Secure Keyboard" style="margin: 10px;">
-  <img src="assets/screenshot_4.png" width="200" alt="Security Report" style="margin: 10px;">
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe" width="180" alt="Lock Screen" style="margin: 5px; border-radius: 12px;">
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b" width="180" alt="Dashboard" style="margin: 5px; border-radius: 12px;">
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5" width="180" alt="Secure Keyboard" style="margin: 5px; border-radius: 12px;">
 </p>
+
