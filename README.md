@@ -13,3 +13,11 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+### 📱 App UI Showcase
+
+<p align="center">
+  <img src="assets/screenshot_1.png" width="200" alt="Lock Screen" style="margin: 10px;">
+  <img src="assets/screenshot_2.png" width="200" alt="Dashboard" style="margin: 10px;">
+  <img src="assets/screenshot_3.png" width="200" alt="Secure Keyboard" style="margin: 10px;">
+  <img src="assets/screenshot_4.png" width="200" alt="Security Report" style="margin: 10px;">
+</p>
